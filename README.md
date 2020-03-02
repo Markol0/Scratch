@@ -1,1 +1,3 @@
-# Scratch projekt ami van es csinal valamit(ez a leiras)
+# Scratch projekt
+Van es csinal valamit(ez a leiras)
+
